@@ -2,7 +2,7 @@ package hls
 
 import (
 	"fmt"
-	"github.com/shimberger/gohls/internal/worker"
+	"github.com/niccoloCastelli/gohls/lib/worker"
 	"io"
 	"path/filepath"
 )

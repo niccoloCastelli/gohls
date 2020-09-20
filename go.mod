@@ -1,4 +1,4 @@
-module github.com/shimberger/gohls
+module github.com/niccoloCastelli/gohls
 
 go 1.14
 

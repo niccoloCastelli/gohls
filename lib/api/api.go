@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/shimberger/gohls/internal/config"
-	"github.com/shimberger/gohls/internal/fileindex"
+	"github.com/niccoloCastelli/gohls/lib/config"
+	"github.com/niccoloCastelli/gohls/lib/fileindex"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 )

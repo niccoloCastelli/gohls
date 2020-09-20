@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/go-chi/chi"
-	"github.com/shimberger/gohls/internal/hls"
+	"github.com/niccoloCastelli/gohls/lib/hls"
 	"net/http"
 	"strconv"
 )

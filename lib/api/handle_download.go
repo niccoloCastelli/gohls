@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"github.com/shimberger/gohls/internal/hls"
+	"github.com/niccoloCastelli/gohls/lib/hls"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 	"os/exec"
